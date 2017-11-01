@@ -1,0 +1,1 @@
+dredd api-description.apib http://127.0.0.1:3000  # API Blueprint
